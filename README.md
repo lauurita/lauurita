@@ -19,7 +19,6 @@
 
 <h2 align="center">👩🏻‍💻María Laura Pérez</h2>
 
-###
 
 <h2 align="center">Estudiante de Ingeniería Informática</h2>
 
