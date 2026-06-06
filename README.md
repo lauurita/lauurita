@@ -1,4 +1,4 @@
-<img align="left" height="207" src="https://github.com/lauurita/lauurita/raw/main/202606052329.gif"  />
+<img align="right" height="207" src="https://github.com/lauurita/lauurita/raw/main/202606052329.gif"  />
 
 ###
 
